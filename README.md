@@ -2,8 +2,9 @@
 
 ***test***
 
-[Git Notes](https://github.com/cwilmire/notes/blob/main/git.md)
+[Git Notes](git.md)
 
+[django Notes](django.md)
 
 > this is a test
 
