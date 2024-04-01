@@ -1,13 +1,6 @@
 # Notes
 
-***test***
-
 [Git Notes](git.md)
+[Vim Notes](vim.md)
+[Markdown Notes](markdown.md)
 
-[django Notes](django.md)
-
-> this is a test
-
-- one
-- two
-- three
