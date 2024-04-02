@@ -6,3 +6,10 @@
 
 [Markdown Notes](markdown.md)
 
+[C# Notes](csharp.md)
+
+[Django Notes](django.md)
+
+[Python Notes](python.md)
+
+
