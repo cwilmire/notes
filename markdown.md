@@ -58,14 +58,11 @@ Blocks of code are either fenced by lines with three back-ticks or are indented 
 Blockquotes
 > Blockquotes
 Blockquotes are very handy in email to emulate reply text
-Inline HTML
-<ul>list</ul>
-You can use the raw HTML in your Markdown
-
 
 Horizontal Rule
 ---
 You can get a horizontal rule by typing three or more hyphens (-), asterisks (*) or underscore (_)
+---
 
 
 Table
