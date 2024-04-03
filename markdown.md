@@ -1,16 +1,10 @@
-:Headers
-# Heading
-H1
-## Heading
-H2
-### Heading
-H3
-#### Heading
-H4
-##### Heading
-H5
-###### Heading
-H6
+Headers
+# Heading H1
+## Heading H2
+### Heading H3
+#### Heading H4
+##### Heading H5
+###### Heading H6
 
 Emphasis
 _Text_
@@ -74,5 +68,9 @@ Horizontal Rule
 You can get a horizontal rule by typing three or more hyphens (-), asterisks (*) or underscore (_)
 
 
+Table
 
+|  1  |  2  |  3  |  4  |  5  |
+| --- | --- | --- | --- | --- |
+|  A  |  B  |  C  |  D  |  E  |
 
