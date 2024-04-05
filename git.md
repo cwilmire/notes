@@ -1,4 +1,4 @@
-git clone <https://name-of-the-repository-link>
+git clone https://name-of-the-repository-link
 
 git config --global
 
@@ -8,7 +8,8 @@ git init
 
 git commit -m "message"
 
-git add <file>
+git add file
+
 git add -A
 
 
