@@ -1,10 +1,13 @@
 Headers
-# Heading H1
-## Heading H2
-### Heading H3
-#### Heading H4
-##### Heading H5
-###### Heading H6
+| code | heading |
+|:---: | :--- | 
+| # | #Heading H1 |
+| ## | ##Heading H2 |
+| ### | ###Heading H3 |
+| #### | ####Heading H4 |
+| ##### | #####Heading H5 |
+| ###### | #####Heading H6 |
+
 
 Emphasis
 _Text_
@@ -34,18 +37,10 @@ Links
 [text link](https://duckduckgo.com)
 Inline-style link
 [text link with title](https://duckduckgo.com "DDG Home")
-Inline-style link with title
-[Reference-style link][Arbitrary case-insensitive reference text]
-Reference style link
-[Use numbers for reference-style link definitions][1]
-Links with a reference number. The number needs to be defined as [1]: http://slashdot.org
 
 
 Images
 ![alt text](https://github.com/n48.png "Logo Title")
-Inline style
-[alt text][logo]
-The reference style. Reference need to be declared as [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
 Code and Syntax Highlighting
@@ -56,8 +51,7 @@ Blocks of code are either fenced by lines with three back-ticks or are indented 
 
 
 Blockquotes
-> Blockquotes
-Blockquotes are very handy in email to emulate reply text
+> Blockquotes - Blockquotes are very handy in email to emulate reply text
 
 Horizontal Rule
 ---

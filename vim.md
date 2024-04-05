@@ -21,4 +21,5 @@ vim-gitgutter - git changes
 Plug 'airblade/vim-gitgutter'
 
 
+set fileformat=unix,dos
 
