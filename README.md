@@ -12,4 +12,6 @@
 
 [Python Notes](python.md)
 
+[PowerShell](PowerShell.md)
+
 
