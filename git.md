@@ -1,4 +1,6 @@
-git clone https://name-of-the-repository-link
+# git commands
+
+git clone ssh://git@github.com/name-of-the-repository-link
 
 git config --global
 
