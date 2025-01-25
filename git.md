@@ -11,7 +11,7 @@ git init
 git commit -m "message"
 
 git add file
-
+git add .
 git add -A
 
 
